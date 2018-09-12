@@ -3,7 +3,7 @@
 회사: 크래프톤
 게임: "PUBG: BATTLEGROUNDS"
 플랫폼: Steam
-버전일자: 2018-06-23
+버전일자: 2018-09-12
 출처: https://pubg.com/ko/clause/rules_of_conduct/label_steam/latest
 수집일자: 2026-09-28
 ---
@@ -52,7 +52,7 @@
 
 9) 고객은 아래의 채널로 게임 서비스와 관련된 문의, 건의 및 요청을 할 수 있습니다.
 
-고객센터: https://support.playbattlegrounds.com/hc/ko
+고객센터: https://support.pubg.com/hc/ko
 
 ### 5. 부정행위에대한 정책
 
