@@ -1,11 +1,11 @@
 ---
 제목: Simple & Easy Notification Service 서비스 이용약관
 회사: 네이버클라우드
-버전일자: 2017-09-14
-시행일자: 2017-09-14
+버전일자: 2018-10-18
+시행일자: 2018-10-18
 출처: https://www.ncloud.com/policy/terms/senst
-판: 2
-원문PDF: https://xv-ncloud.pstatic.net/images/provision/Simple&EasyNotificationService%C3%AC%C2%84%C2%9C%C3%AB%C2%B9%C2%84%C3%AC%C2%8A%C2%A4%C3%AC%C2%9D%C2%B4%C3%AC%C2%9A%C2%A9%C3%AC%C2%95%C2%BD%C3%AA%C2%B4%C2%80_170914_1789180666142.pdf
+판: 3
+원문PDF: https://xv-ncloud.pstatic.net/images/provision/Simple&EasyNotificationService%C3%AC%C2%84%C2%9C%C3%AB%C2%B9%C2%84%C3%AC%C2%8A%C2%A4%C3%AC%C2%9D%C2%B4%C3%AC%C2%9A%C2%A9%C3%AC%C2%95%C2%BD%C3%AA%C2%B4%C2%80_181018_1789180744479.pdf
 수집일자: 2026-09-29
 ---
 
@@ -119,4 +119,4 @@
 
 ① ‘본 서비스’의 이용 요금의 세부 내역은 회사의 네이버 클라우드 플랫폼 서비스 홈페이지에 게시합니다. ② ‘본 서비스’ 이용계약 기간 중 이용요금이 변경되더라도 현재 이용중인 ‘서비스’ 이용기간에 대해서는 특별한 사정이 없는 한소급 적용되지 않습니다. ③ ‘본 서비스’의 이용요금은 매월 1 일부터 해당월 말일까지 1 개월 단위로 산정하여 청구합니다. ④ ‘회사’는 ‘본 서비스’에 대한 이용요금을 네이버 클라우드 플랫폼 서비스 이용 요금과 함께 청구하며, ‘고객’은 네이버 클라우드플랫폼 서비스 이용 요금과 함께 ‘본 서비스’ 이용요금을 지불해야 합니다.
 
-부칙 본 약관은 2017 년 9 월 14 일부터 적용됩니다.
+부칙 본 약관은 2018 년 10 월 18 일부터 적용됩니다.
