@@ -1,11 +1,11 @@
 ---
 제목: CLOVA Dubbing 서비스 이용약관 
 회사: 네이버클라우드
-버전일자: 2020-11-18
-시행일자: 2020-11-18
+버전일자: 2020-12-22
+시행일자: 2020-12-22
 출처: https://www.ncloud.com/policy/terms/dubin
-판: 1
-원문PDF: https://xv-ncloud.pstatic.net/images/provision/CLOVADubbing서비스이용약관_1605577760469.pdf
+판: 2
+원문PDF: https://xv-ncloud.pstatic.net/images/provision/CLOVADubbing서비스이용약관_1608569646029.pdf
 수집일자: 2026-09-29
 ---
 
@@ -55,4 +55,4 @@
 
 제 8 조 (서비스 성능 및 서비스 개선 목적 이용) 회사는 고객의 귀책 사유로 인한 본 서비스의 이용 장애에 대해 책임을 지지 않습니다.
 
-부칙 본 약관은 2020 년 11 월 18 일부터 적용됩니다.
+부칙 본 약관은 2020 년 12 월 22 일부터 적용됩니다.
