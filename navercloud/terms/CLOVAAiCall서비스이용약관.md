@@ -1,11 +1,11 @@
 ---
 제목: CLOVA AiCall 서비스 이용약관 
 회사: 네이버클라우드
-버전일자: 2020-11-18
-시행일자: 2020-11-18
+버전일자: 2021-01-21
+시행일자: 2021-01-21
 출처: https://www.ncloud.com/policy/terms/ccai
-판: 1
-원문PDF: https://xv-ncloud.pstatic.net/images/provision/CLOVAAiCall서비스이용약관_1605541968476.pdf
+판: 2
+원문PDF: https://xv-ncloud.pstatic.net/images/provision/CLOVAAiCall서비스이용약관_1684474470844.pdf
 수집일자: 2026-09-29
 ---
 
@@ -77,4 +77,4 @@
 
 않습니다. 본 서비스는 화재∙사건∙사고에 대한 신고 또는 공공 안전 등과 같은 응급 상황에 대한 긴급 통화를 지원하거나 통화를 연결하는 서비스는 포함되어 있지 않습니다.
 
-부칙 본 약관은 2020 년 11 월 18 일부터 적용됩니다.
+부칙 본 약관은 2021 년 01 월 21 일부터 적용됩니다.
