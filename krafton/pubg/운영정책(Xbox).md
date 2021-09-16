@@ -3,247 +3,275 @@
 회사: 크래프톤
 게임: "PUBG: BATTLEGROUNDS"
 플랫폼: Xbox
-버전일자: 2020-12-02
+버전일자: 2021-09-16
 출처: https://pubg.com/ko/clause/rules_of_conduct/label_xbox/latest
 수집일자: 2026-09-28
 ---
 
-### 1. GENERAL RULE
+### 1. 총칙
 
-This Rules of Conduct regulate general matters that end users and company should comply with in relation to the services of PLAYERUNKNOWN’S BATTLEGROUNDS (hereinafter referred to as “Game”) provided by KRAFTON, Inc. (“KRAFTON”). It is aimed to regulate necessary requirements in consistent manner to cope with various situations that may arise in the process of using and providing game services.
+본 운영정책은 ㈜크래프톤(이하 “회사”)가 제공하는 PUBG: BATTLEGROUNDS (이하 “게임”)의 서비스와 관련하여 고객과 회사가 준수하여야 할 기본적인 사항을 규정하고 게임 서비스의 이용 및 제공 과정에서 발생할 수 있는 여러 가지 상황에 일관성 있게 대처하기 위하여 필요한 사항을 규정하는 것을 목적으로 합니다.
 
-The matters that are not specifically mentioned in the Rules of Conduct shall be treated in accordance with the Terms of Use and relevant jurisdiction.
+본 운영정책에서 구체적으로 명시하지 않은 사항들은 이용약관과 대한민국 법률에 의거하여 처리함을 원칙으로 합니다.
 
-### 2. CHANGES IN RULES OF CONDUCT
+### 2. 운영정책의 변경
 
-If KRAFTON decides to change Rules of Conduct in order to improve quality of game service, KRAFTON will notify effective date, revised contents and reasons for revision at least 7 days prior to the effective date through KRAFTON homepage (https://www.pubg.com). However, we will notify you from 30 days prior to the changes if such changes are regarded as serious matter or may be unfavorable to you. If a user fails to comply with revised Rules of Conduct after the last revision date, it is not KRAFTON’s responsibility to compensate any loss incurred due to lack of awareness from the user.
+회사가 원활한 게임 서비스 제공을 위하여 본 운영정책을 변경할 경우에는 적용일자 및 개정내용, 개정사유 등을 적용일자로부터 최소한 7일 이전부터 홈페이지(https://www.pubg.com)를 통해 안내해드립니다. 단, 고객에게 불리하게 변경되거나 중대한 사항의 변경은 30일 이전부터 안내해 드립니다. 회사가 변경된 운영정책을 공지 하였으나, 고객이 이를 인지하지 않고 고객의 부주의로 발생한 문제에 대해서는 도움을 드릴 수가 없습니다.
 
-### 3. DUTIES AND RESPONSIBILITIES OF KRAFTON
+### 3. 회사의 의무와 책임
 
-1) KRAFTON will endeavor to eradicate misconducts described in the Rules of Conduct to ensure that the users can enjoy playing the game.
+1) 회사는 본 운영정책에서 명시한 부정행위를 근절하기 위하여 노력하며 고객이 원활하게 게임을 이용할 수 있도록 최선을 다합니다.
 
-2) KRAFTON will never ask you for your password, and KRAFTON will be committed to protect and securely manage user’s personal information. However, when a government agency or a judicial authority requests to provide personal information through legal means, KRAFTON may provide personal information to those government agencies.
+2) 회사는 고객의 계정과 비밀번호를 묻지 않으며, 개인정보의 보호와 관리에 최선을 다합니다. 단, 정부기관 또는 사법기관 등이 적법한 절차를 거쳐 개인정보의 제공을 요청할 경우 해당 기관에 개인정보를 제공할 수 있습니다.
 
-3) KRAFTON receives feedback on all types of bugs and errors through KRAFTON’s official customer support center and official community, and KRAFTON will be committed to promptly review and correct bugs and errors.
+3) 회사는 게임 공식 고객센터와 커뮤니티를 통해 고객에게 발생하는 모든 형태의 버그 및 오류에 대한 제보를 받으며, 이를 신속하게 확인 및 수정하기 위하여 최선을 다합니다.
 
-4) KRAFTON will not intervene or engage in activities and disputes between and/or among end users in relation to game services.
+4) 회사는 게임 서비스와 관련하여 고객 간에 발생하는 정상적인 활동이나 분쟁에 대해서는 개입 또는 관여하지 않는 것을 원칙으로 합니다.
 
-5) KRAFTON may restrict some or all of the game services if KRAFTON determines that such unusual or unintended situations hinder enjoyment of the gameplay.
+5) 회사는 비정상적이거나 의도하지 않은 현상이 발생하여 원활한 게임 서비스 제공에 중대한 지장을 초래한다고 판단될 경우 게임 서비스의 일부 또는 전체를 제한할 수 있습니다.
 
-6) If you or group of users do anything that might interfere with or adversely affect any services provided by KRAFTON) or violates the Rules of Conduct, KRAFTON shall, in accordance with the ‘Penalty criteria for Misconduct specified in the Rules of Conduct, restrict service usage.
+6) 회사는 특정 고객 또는 집단의 행위가 원활한 게임 서비스 제공에 방해가 된다고 판단되거나 운영정책에 위배될 경우 본 운영정책에서 규정하는 ‘부정행위에 대한 제재 기준’에 의거하여 특정 고객 또는 집단의 게임 서비스 이용을 제한할 수 있습니다.
 
-### 4. END USER’S RESPONSIBILITIES AND RIGHTS
+### 4. 고객의 의무와 권리
 
-1) You are obliged to understand and comply with KRAFTON’s Terms of Service and Rules of Conduct.
+1) 고객은 회사의 이용약관 및 운영정책을 반드시 숙지하고 준수해야 할 의무가 있습니다.
 
-2) The company reserves all rights about in-game data (characters, items, game currency, etc.) created by you when using the game service, and you reserve right only to use in-game data.
+2) 고객이 게임 서비스를 이용하면서 생성되는 정보(캐릭터, 아이템, 게임머니 등)에 대해서 회사가 모든 권리를 소유하며, 고객에게는 해당 정보를 이용할 수 있는 권리가 부여됩니다.
 
-3) If you are unfairly treated or incurred harm using the game service, you have the right to appeal and correct KRAFTON through legitimate methods and procedures. If you have been unfairly treated or harmed by another customer, you have the right to notify and ask other users to comply with Rules of Conduct.
+3) 고객이 게임 서비스를 이용함에 있어 부당한 대우를 받거나 피해를 입은 경우 정당한 방법과 절차를 통해 회사에 이의 제기 및 시정을 요청할 권리를 가지며, 다른 고객으로부터 부당한 대우를 받거나 피해를 입은 경우 회사에 그 내용을 알리고 다른 고객에 대하여 본 운영정책의 적용을 요청할 권리를 가집니다.
 
-4) You have an obligation to be fully informed about the information that KRAFTON officially announces, and KRAFTON shall not be responsible for any damages incurred due to lack of awareness about the
+4) 고객은 회사가 공식적으로 전달하는 정보에 대해 반드시 숙지해야 할 의무를 가지며, 이를 숙지하지 아니함으로써 발생되는 피해에 대해서는 회사가 책임지지 않습니다
 
-announcements.
+5) 고객은 회사의 사전 승낙 없이 게임 서비스를 이용하여 어떠한 영리 행위도 할 수 없습니다.
 
-5) You are not allowed to generate any profit using the game service without prior approval from KRAFTON.
+6) 고객은 게임 서비스를 이용하여 얻은 정보를 회사의 사전 승낙 없이 복사, 복제, 변경, 번역, 출판 등 기타의 방법으로 사용하거나 이를 타인에게 제공할 수 없습니다.
 
-6) You may not use the information obtained through Game Service such as copying, duplication, modification, translation, publishing or otherwise providing this information to others without prior consent from KRAFTON.
+7) 고객은 회사가 공식적으로 공지하지 않은 허위 사실을 유포하여 다른 고객에게 혼란을 주는 경우 불이익을 받을 수 있습니다.
 
-7) You may be liable for distributing false information not officially announced by KRAFTON in any manner that is likely to cause confusion to other end users.
+8) 고객은 게임 서비스의 취약점(버그, 시스템 오류, 불법 프로그램 등)을 발견 또는 발생 시 반드시 회사에 알려야 하며, 이를 다른 고객에게 전파하거나 악용해서는 안됩니다. 취약점을 발견한 후에도 이를 회사에 알리지 않고 악용 또는 타인에게 전달하는 경우에는 의도적인 부정행위로 판단하여 본 운영정책에 의거하여 게임 서비스 이용에 제한을 받을 수 있습니다.
 
-8) You must notify KRAFTON of any glitches (such as bugs, system errors, illegal programs, etc.) of the game service and should not exploit and/or propagate such information to other users. If you discover any vulnerability and do not disclose it to KRAFTON and forward it to another person, you may be subject to restrictions to the use of the game services in accordance with the Rules of Conduct, which is regarded as intentional misconduct.
+9) 고객은 아래의 채널로 게임 서비스와 관련된 문의, 건의 및 요청을 할 수 있습니다.
 
-9) You can make inquiries, suggestions and requests related to game services through following channels.
+고객센터: https://support.pubg.com/hc/ko
 
-– Customer Support Center: https://support.pubg.com/hc/en-us
+### 5. 부정행위에 대한 정책
 
-– As a general rule, we will respond promptly to inquiries, suggestions, requests, feedback you have given through Customer Center. However, the response may be delayed if there is a heavy workload.
+회사는 모든 고객에게 공정하고 원활한 게임 환경을 제공하기 위한 목적으로 고객이 게임을 이용하면서 준수하여야 할 사항을 규정하였습니다.
 
-### 5. POLICIES FOR MISCONDUCT
+게임을 이용하는 모든 고객들은 아래의 규정을 반드시 지켜주셔야 합니다.
 
-In order to provide a fair and pleasant gaming experience for all users, KRAFTON has defined policies which all users need to comply with when using our service. All users playing the game must comply with the following rules.
+1) 비인가 프로그램 및 하드웨어 기기 사용 금지
 
-1) DO NOT USE UNAUTHORIZED PROGRAMS AND HARDWARE DEVICES
+회사에서 인정하지 않은(또는 회사로부터 허락받지 않은) 비인가 프로그램 및 게임 내에서 부당한 이득을 취할 수 있거나 공정한 플레이를 저해하는 하드웨어 기기(마우스 등의 하드웨어 일체, 이하 통칭하여 “비인가 하드웨어”)를 사용할 경우에는게임 이용 영구 제한, 해당 하드웨어 기기에서의 서비스 이용 제한 등 매우 강력한제재를 받을 수 있습니다. 회사는 공정한 게임환경 조성을 위해 비인가 프로그램 및 하드웨어 이용에 대한 조사를 진행할 수 있으며, 조사 진행 시 일정기간 동안 게임 플레이가 제한될 수 있습니다. 비인가 프로그램 및 비인가 하드웨어를 개발, 광고, 거래, 배포하는경우 게임 내에서의 제재는 물론이고, 관계 법령에 따라 사법기관에 수사를 의뢰할 수 있습니다.
 
-If you use unauthorized programs and hardware devices that are not permitted or authorized by the company (collectively “Unauthorized hardware”, that promotes unfair game play using specific mouse or other hardware device), you may be subject to strong penalties, such as permanent game ban and restrictions of using the Service on your hardware devices. If you develop, advertise, trade or distribute unauthorized programs or unauthorized hardware, the Company will take legal action against your misconduct and may ask the judicial authorities for investigation in accordance with relevant laws as well as imposing penalty within the game.
+2) 클라이언트/서버/데이터(패킷 등) 등 무단 변경 금지
 
-2) DO NOT MODIFY THE GAME CLIENT, SERVERS OR GAME DATA (PACKET, ETC.)
+게임 클라이언트(ini 파일 조작 등)/서버/데이터(패킷 등)를 무단 변경하는 것은 게임 서비스를 공격하는 행위이자 저작권법을 위배하는 행위로써 강력한 제재 조치가 취해집니다.
 
-Unauthorized changes to game client (ini file modification, etc) / servers / data (such as packets) are actions that interferes with game services and violate copyright laws.
+3) 서비스 취약점(버그 및 시스템) 악용 금지
 
-3) DO NOT EXPLOIT VULNERABILITIES IN THE GAME (BUGS AND GLITCHES)
+게임의 오류와 버그를 공식적인 절차를 통하여 신고하지 않고, 이를 이용하여 부당한 이익을 취하는 행위는 강력한 제재 조치가 취해지며, 획득한 BP, 아이템 등의 캐릭터 정보는 모두 회수됩니다.  
+또한, 버그 및 시스템 악용 방법을 유포하는 행위도 제재 조치가 취해집니다.
 
-Users exploiting errors and bugs found while playing the game will be liable for serious penalties and we will take actions against taking unfair advantage through official procedures and acquired BP and items will be removed.
+4) 부적절한 닉네임 사용 금지
 
-4) DO NOT DISCRIMINATE AGAINST OTHERS (E.G. RACIAL OR SEXUAL DISCRIMINATION)
+다른 고객에게 불쾌감을 줄 수 있거나, 부정적인 인식을 제공할 수 있다고 판단되는 닉네임은 부정적인 행위로 간주되어 제재 조치가 취해집니다
 
-It is unacceptable to disrespect or use offensive words towards others based on their race, gender, nationality, etc. Please be friendly and respectful towards all players.
+타인에게 불쾌감을 줄 수 있는 선정적이거나 비속어(욕설)로 만들어진 닉네임
 
-5) DO NOT USE INAPPROPRIATE NICKNAMES
+크래프톤, 펍지주식회사 등의 회사 관계자 및 파트너로 속일 의도가 있는 닉네임
 
-Offensive nicknames or those that may provoke negative imagery are considered to be violating the Rules of Conduct and appropriate action may be taken against users who create them.
+특정 종교, 인종, 회사 등의 집단을 비하려는 닉네임
 
-A nickname that is sexually explicit or obscene;
+제 3자의 상표권, 저작권을 침해할 가능성이 있는 닉네임
 
-A nickname that is made with the intention to impersonate Krafton or our staff;
+각 국가의 사회 통념상 수용하기 어려운 닉네임
 
-A nickname that is discriminatory in nature;
+이 밖에도 닉네임의 철자를 일부 바꾸거나 문자열의 앞뒤에 다른 문자를 섞어 교묘하게 부적절한 닉네임을 표현하는 행위도 별도의 안내 없이 임의의 닉네임으로 변경 및 제재 조치가 취해집니다.
 
-A nickname that may infringe on the trademark or copyright of a third party;
+5) 불건전언어에 대한 정책
 
-A nickname that is sensitive or causes offence for any other reason not mentioned above;
+회사는 건전한 게임문화를 만들기 위한 목적으로 고객이 게임을 이용하면서 준수하여야 할 사항을 규정하였습니다.
 
-In addition, if you change a few letters of an inappropriate nickname, or try to construct nicknames that are cleverly inappropriate by mixing other characters before and after the letters, your nickname will be immediately changed without your consent and/or penalty measures will be taken.
+게임을 이용하는 모든 고객들은 아래의 규정을 반드시 지켜 주셔야 합니다.
 
-6) DO NOT TEAM KILL
+① 욕설, 모욕, 언어폭력 등 부적절한 언어 사용 금지
 
-Team kill is prohibited as it interferes with normal team gameplay and penalties may be imposed if teamkill is determined to be intentional and reoccurring.
+다른 고객에게 불쾌감을 줄 수 있거나, 부정적인 인식을 제공할 수 있다고 판단되는 행위는 부정적인 행위로 간주하여 제재조치가 취해집니다.
 
-7) DO NOT TEAM (FORM TEAMS OUTSIDE WHAT IS ALLOWED BY THE SELECTED GAME MODE)
+욕설, 비 ∙ 속어 등을 사용하는 행위
 
-Intentional teaming between players or other teams in ways that the KRAFTON system does not presuppose in each game mode is considered an unacceptable behavior and penalties may be imposed. In the case of when you have received advantages by creating a team with a user who continuously or intentionally uses an unauthorized program, measures may be taken against you, as you are considered a member of an abnormal team.
+음란한 단어나 성묘사 등을 통해 성적 수치심을 느끼게 하는 표현이나 행동을 하는 행위
 
-8) DO NOT STALK OTHER PLAYERS FROM MATCH TO MATCH
+특정 지역이나 종교, 인종, 장애 등을 비하, 조롱하거나 비난하는 행위
 
-Penalties may be imposed if you try to stalk other players in order to interfere with normal gameplay.
+현실에 대한 위협이나 상대방에게 공포심을 느끼게 하는 표현이나 행동을 하는 행위
 
-9) DO NOT PUBLISH PERSONAL INFORMATION
+기타 약관에서 금지하는 표현이나 통신을 하여 상대방에게 불쾌감이나 혐오감을 주는 행위
 
-Penalties may be imposed if you publish personal information of others (e.g. disclosing personal information of others to third parties or making it publicly available), which is regarded as an act that violates privacy.
+② 채팅 도배행위 금지
 
-10) DO NOT MANIPULATE MATCH RESULTS
+채팅창에 과도한 내용의 글을 올리거나 동일한 내용의 글을 반복적으로 올려 다수 이용자들의 채팅 이용을 방해하는 행위는 일부 시스템의 이용에 제한이 발생할 수 있습니다.
 
-Strong penalties may be imposed on those who manipulate the results of the game in an unfair way, by taking unfair advantage in exchange for cash, goods and/or services, manipulating additional accounts in addition to their own account. For those who gets caught will end up losing all acquired items.
+6) 현금거래 시도에 대한 행위
 
-11) DO NOT STEAL OTHER USER’S ACCOUNT
+현금거래를 시도하는 행위는 제재조치가 취해집니다. 닉네임 또는 사용자 지정 게임모드 생성 이름을 이용하여 현금/현물 거래 의도가 있다고 판단되는 행위, 계정거래 행위를 시도하거나 이를 광고하는 행위, 닉네임을 매개로 현금/현물을 거래하는 행위 등을 의미합니다.
 
-In the case of when attempts to access another user’s account have been detected, the account may be restricted from access to secure the user’s information and account.
+7) 홍보 및 광고
 
-12) DO NOT AFK(AWAY FROM KEYBOARD OR IDLING)
+게임 및 회사와 무관한 내용을 홍보 및 광고하는 행위는 제재조치가 취해집니다.
 
-Penalties may be imposed on players who go AFK while in a match. Being AFK can place your teammates at a disadvantage or otherwise undermine the gameplay experience. Players who AFK repeatedly to earn BP, SP or other account related progression or rewards will be penalized with all account progression and items removed.
+영리, 영업, 광고, 홍보 등 게임서비스 본래의 용도 이외의 광고 용도로 게임서비스를 이용하는 모든 행위를 의미합니다.
 
-13) DO NOT TRADE/SELL ACCOUNTS
+8) 팀킬(TEAM KILL) 금지
 
-Measures will be taken against the act of accessing accounts that are not in your possession and trading or selling the accounts or its game data without the company’s written approval.
+팀킬은 팀원의 정상적인 게임 플레이를 방해하는 행위이기 때문에 금지하고 있으며, 반복적이거나 고의적이라고 판단 될 경우 제재 조치가 취해집니다.
 
-14) DO NOT DISTURB BUSINESS OPERATIONS
+9) 비정상 팀 구성(TEAMING) 금지
 
-Users who spread false information, abuse customer service platform, impersonate oneself as an employee, create and spread rumors, or conduct any other acts that disturbs the company’s normal business operations may even lead to being permanently banned from the game depending on the seriousness of the misconduct.
+게임에서 공식적으로 인정하지 않은(또는 정상적인 게임 시스템이 만들어 주지 않은) 방법으로 팀을 구성하여 게임 규칙에 어긋나는 행위를 할 경우 제재 조치가 취해집니다. 반복적이거나 고의적으로 비인가 프로그램을 사용하는 이용자와 팀을 구성하여 게임 내 이득을 취할 경우 비정상 팀 구성으로 간주하여 제재조치가 취해질 수 있습니다.
 
-15) DO NOT PLAY THE GAME ABNORMALLY
+10) 게임이용 방해, 괴롭힘(STALKING) 금지
 
-If any abnormal gameplaying patterns have been detected that are impossible to be performed in our game, measures could be taken against the account that performed such action in order to create a fair gameplaying environment.
+다른 고객의 게임 플레이를 방해할 목적을 가지고 지속적으로 따라다니면서 공격하는 행위는 명확한 근거를 바탕으로 제재 조치가 취해집니다.
 
-16) OTHER UNDEFINED MISCONDUCT
+11) 개인정보 유출 금지
 
-Any action which is not defined in the Rules of Conduct that negatively impacts the delivery of KRAFTON’s services or negatively affects other players may be subject to warning and penalty through careful review of the circumstances.
+다른 고객의 개인정보를 제3자에게 제공하거나, 다수의 고객이 확인할 수 있는 공간에 게시하는 등 어떠한 방식으로든 다른 고객의 개인정보를 유출하는 행위는 개인의 사생활을 침해하는 행위로 간주되어 제재 조치가 취해집니다
 
-### 6. PENALTY CRITERIA FOR MISCONDUCT
+12) 어뷰징
 
-1) Penalty Criteria is used to protect the customer’s enjoyment while playing the game.
+고객이 본인의 계정 외에 다른 계정을 추가로 조작하거나 특정 고객과 서로 합의 하에 현금이나 현실의 재화/용역을 대가로 부당한 이득을 취하는 등의 정당하지 않은 방법을 통해 승부 결과를 조작하는 행위는 강력한 제재 조치가 취해지며, 획득한 BP, 아이템 등의 캐릭터 정보는 모두 회수됩니다.
 
-2) If you fail to comply with Rules of Conduct, you may be restricted from using the service without prior notice in accordance with Penalty Criteria for Misconduct
+13) 타인의 계정을 도용하는 행위
 
-3) If your violation attempt goes over the final attempt listed in the table below, permanent ban applies.
+본인의 소유가 아닌 계정에 접속하거나 접속 시도가 감지되는 경우, 고객의 정보와 계정을 보호하기 위해 계정 사용 제한을 적용 할 수 있습니다
 
-4) If you violate any of the criteria listed in the table below and your ID is listed in the top 10 of the PUBG leaderboard, your ID will be temporarily or permanently removed from the leaderboard.
+14) 계정 거래/판매 금지
 
-[Penalty Criteria Table For Misconduct]
+회사의 서면동의 없이 본인의 소유가 아닌 계정에 접속하여 계정 또는 계정 내 게임 데이터를 거래, 판매하는 행위는 제재조치가 취해집니다.
 
-| PENALTY CRITERIA FOR MISCONDUCT | MAXIMUM PENALTY PERIOD |
+15) 자리비움 금지
 
-| Use, develop, advertise, trade or distribute Unauthorized Programs and Hardware Devices | Permanent Ban |
+게임 시작 후 종료 시까지 혹은 일정 기간동안 아무런 행동을 하지 않아 팀원에게 불이익을 주거나 재화, 전적 점수 등을 획득하는 자리비움 행위는 부당한 이득을 취하는 행위로 규정하며, 제재 조치가 취해지며 획득한 BP, 아이템, 시즌 보상 등의 캐릭터 정보는 모두 회수됩니다.
 
-| Investigate the use of Unauthorized Programs and Hardware Devices | 3 Days Ban |
+16) 운영 방해
 
-| Modification of Game Client, Servers and Game Data (packet, etc.) | Permanent Ban |
+허위사실 유포, 고객센터 창구 악용, 직원 사칭, 루머 조장 및 확산 등 회사의 정상적인 게임 운영에 방해되는 행위는 경중에 따라 최대 영구 이용정지가 적용될 수 있습니다.
 
-| Exploiting Bugs and Glitches (Major) | Permanent Ban |
+17) 비정상 게임 플레이 금지
 
-| Discriminatory Act (e.g. racial and sexual discrimination) | Permanent Ban |
+회사는 공정한 게임 플레이 환경 조성을 위해 게임 내 구현 불가한 비정상 게임 플레이 패턴이 감지될 경우 해당 계정에 제재 조치를 취할 수 있습니다.
 
-| Inappropriate use of language (e.g. profanity or other offensive language) | 30 Days Ban |
+18) 이 외에 정의되지 않은 기타 부정 행위들
 
-| Usage of Inappropriate Nicknames | 30 Days Ban |
+대한민국 법률에 어긋나는 행위, 계정 공유, 계정 거래, 허위 신고, 허위 사실 유포, 홍보 및 광고 등 본 운영정책에서 정의되지 않은 행위들 중에 게임의 원활한 서비스 제공에 부정적인 영향을 주거나, 다른 고객들에게 부정적인 영향을 주는 행위들은 정확한 근거와 상황들을 면밀하게 검토하여 조치를 취할 것 입니다.
 
-| Teamkilling | Permanent Ban |
+### 6. 부정행위에 대한 제재기준
 
-| Teaming | Permanent Ban |
+1) 제재 기준은 고객의 원활한 플레이를 보호하기 위하여 사용됩니다.
 
-| Gameplay Interference | 30 Days Ban |
+2) 본 운영정책에 명시된 부정행위를 할 경우 제재 기준에 따라 사전 안내 없이 이용에 제한을 받을 수 있습니다.
 
-| Stalking | Permanent Ban |
+3) 최종회차 이상의 위반 시에는 영구 이용정지 제재가 적용됩니다.
 
-| Publishing Personal Information | Permanent Ban |
+4) 부정행위를 통해 제재된 경우 일시적 혹은 영구적으로 리더보드 TOP10 노출 제외 조치가 진행됩니다.
 
-| Manipulating Match Results | Permanent Ban |
+[부정행위에 대한 제재 기준표]
 
-| Usage of Another User’s Account / Restrict the Usage of Account (for protecting the Account) | Permanent Ban |
+| 부정행위 | 최대 제재 기간 |
 
-| AFK | Permanent Ban |
+| 비인가 프로그램 사용 및 하드웨어 기기 사용/광고/개발/거래/배포 | 영구 이용정지 |
 
-| Disturbing Business Operations (e.g. spread false information, abuse customer service platform, impersonate oneself as an employee, create and spread rumors or conduct any other acts) | Permanent Ban |
+| 비인가 프로그램 및 하드웨어 사용에 대한 조사 | 3일 이용정지 |
 
-| Abnormal Gameplay | Permanent Ban |
+| 클라이언트/서버/데이터(패킷 등) 등 무단 변경 | 영구 이용정지 |
 
-5) We define exploiting bugs and glitches as an act which involves acquiring BP and items by exploiting bugs and glitches in the system.
+| 서비스 취약점(버그 및 시스템) 악용(심각) | 영구 이용정지 |
 
-(e.g. Purchasing infinite number of RANDOM CRATES without any BP cost and selling those crates in Steam market for the purpose of earning profit, acquiring BP by exploiting bugs and glitches in a repetitive manner etc.)
+| 불건전 언어 사용 | 30일 이용정지 |
 
-6) In principal, the company considers the standard of the most severe penalty to be imposing the banning period stated in the “Penalty Criteria for Misconduct”; however, depending on the seriousness of the misconduct, the imposed penalty may become more or less severe.
+| 홍보 및 광고 행위 | 30일 이용정지 |
 
-7) IThe Company may restrict users from running the game if misconduct was found from specific hardware device in order to maintain fair gaming environment.
+| 부적절한 닉네임 사용 | 30일 이용정지 |
 
-8) Any BPs, items, and other character-related data can be removed if they have been obtained through misconduct; and depending on the seriousness of the misconduct, not only the character data of what has been obtained, but also the user’s entire character data may be deleted.
+| 팀킬 | 영구 이용정지 |
 
-### 7. POLICY FOR CUSTOM GAME MODE
+| 비정상 팀구성 | 영구 이용정지 |
 
-There is a custom game mode where you can set up number of team members, weather, loot limits and various other game options. Through this mode, KRAFTON can authorize only a limited number of people to create custom game mode to provide various game services such as hosting events and/or marketing purposes
+| 게임 이용 방해 | 30일 이용정지 |
 
-### 8. RECOVERY POLICY
+| 스토킹 | 영구 이용정지 |
 
-We are unable to recover any losses that arise from not following the rules of conduct, in-game notices, homepage notices, policies, game systems, etc.
+| 개인정보 유출 | 영구 이용정지 |
 
-### 9. BONUS/GIFT CODE(“CODE”) POLICY
+| 어뷰징 | 영구 이용정지 |
 
-1) KRAFTON may provide Codes to allow customers to redeem and use skins, including costume skins, weapon skins, and other in-game contents (Collectively, “Contents”) either as free of charge or as paid Contents through approved affiliate companies or directly from KRAFTON. “Free Code” means KRAFTON grant customers Codes without any charge, which are used for promotional and marketing purposes. If customers obtain Codes after participating an event and/or a tournament, we still consider these Codes as Free Codes.
+| 계정 도용/계정 사용 제한(계정 보호 차원) | 영구 이용정지 |
 
-2) KRAFTON may provide Codes to allow customers to redeem and use skins, including costume skins, weapon skins, and other in-game contents either as free of charge or as paid Contents.
+| 자리비움 | 영구 이용정지 |
 
-3) Customers can receive Contents after redeeming Codes on from their own personal accounts. It is strictly prohibited to sell and transfer these Codes under any circumstances.
+| 운영 방해(허위사실 유포/고객센터 창구 악용/직원 사칭/루머 조장 및 확산 등) | 영구 이용정지 |
 
-4) A single Code can only be used once, and after customers use/redeem their Codes, they cannot reuse, return, or refund the Codes.
+| 비정상 게임 플레이 | 30일 이용정지 |
 
-5) Free Codes have an expiration date of 3 months after they have been issued, and customers cannot redeem Codes if they are expired.
+5) 서비스 취약점(버그 및 시스템)악용 은 게임 내 오류를 이용하여 재화(BP/아이템 등)의 부당한 이익을 취하여 게임 밸런싱을 무너뜨릴 수 있는 행위로 규정하여 경중에 따라 영구 이용정지 등 강력한 제재 조치가 적용될 수 있습니다.  
+(예: RANDOM CRATE 상자를 BP소비 없이 무한대로 구매 후 획득한 아이템을 장터를 통해 판매하여 이익을 취하는 행위, 특정 행위 시 BP가 지속적으로 획득되는 문제 등)
 
-6) Paid Codes have an expiration date of 5 years after they have been issued, and customers cannot redeem Codes if the Codes are expired. However, if the Codes expire within 5 years from the issuing date, customers can ask KRAFTON to extend the validity up to 5 years from the issuing date. Customers cannot extend expiration date of Free Codes under any circumstances.
+6) 회사는 원칙적으로 “부정행위에 대한 제재 기준표” 내 명시된 제재기간을 최상위 단계의 제재 기준으로 간주하지만 위반행위의 경중에 따라 상위 혹은 하위 단계의 제재 기준이 적용될 수 있습니다. (예: 부정행위가 반복적으로 확인되거나 동시에 두 가지 이상의 부정행위가 확인되는 경우에는 상위 단계의 제재나 영구 이용정지가 적용될 수 있습니다.)
 
-7) KRAFTON will not be liable for any damage incurred to the customer or to third parties if they have acquired Codes through personal sales or, trades, and end of expiration date.
+7) 선량한 고객의 게임 이용을 보호하기 위하여 부정행위가 일어난 하드웨어 기기에서의 게임 실행을 차단할 수 있습니다
 
-8) Codes purchased through an approved affiliate company are subject to the terms and conditions set by the affiliate company and any Code related matters (including customer inquiries, refund requests etc.) will be handled by the affiliate company which the purchase was conducted with.
+8) 부정행위를 통해 획득한 BP, 아이템 등의 캐릭터 정보가 삭제될 수 있으며, 부정행위의 경중에 따라 부정행위를 통해 획득한 캐릭터 정보는 물론 계정 내 모든 캐릭터 정보가 삭제될 수 있습니다.
 
-### 10. G-COIN CASH OPERATION POLICY
+### 7. 사용자 지정 게임 모드 정책
 
-G-Coin Cash (hereinafter referred to as “G-Coin”) is an in-game currency used to purchase items serviced by the company.
+1) 팀원 수, 날씨, 약탈 제한 및 기타 다양한 게임 옵션을 설정할 수 있는 사용자 지정 게임 모드가 존재합니다. 회사는 해당 모드를 통해 이벤트 활용, 마케팅 수단 등의 다양한 게임 서비스 제공을 목적으로 일부 한정된 인원에게만 사용자 지정 게임 모드 생성 권한을 부여할 수 있습니다.
 
-1) “Paid G-Coin” refers to G-Coin that was purchased using Steam Wallet funds or G-Coin that was included in the bundle product. Users can cancel their purchase in accordance with Paragraph 7 of this Article.
+### 8. 복구 정책
 
-2) “Bonus G-Coin” refers to G-Coin that are obtained after completing missions from an event or survival pass in the game and not purchased with Steam Wallet funds. Bonus G-Coin is non-refundable and cannot be canceled.
+1) 고객 스스로의 과실이나 게임 시스템, 운영 정책에 명시된 내용, 게임 내 공지된 내용, 홈페이지에 공지한 내용 등을 숙지하지 못해 발생하는 손실에 대해서는 도움을 드릴 수 없습니다.
 
-3) G-Coin top-up is available through the Steam®(https://store.steampowered.com/) payment service operated by Valve Corporation. Users can top up G-Coin in the units set by the company.
+### 9. 보너스/기프트 코드(이하 “코드”) 정책
 
-4) Users can purchase in-game items within the amount of G-Coin they have and item prices will be deducted from G-Coin immediately after making a purchase.
+1) 회사는 고객에게 의상, 무기 스킨 등 게임 내의 컨텐츠(이하 “게임 내 컨텐츠”)를 이용할 수 있도록 하는 코드를 직접 또는 제휴사를 통하여 무료 또는 유료로 제공 할 수 있습니다. “무료 코드”란 홍보 및 마케팅 목적으로 고객에게 금원을 수령하지 않고 제공하는 코드를 의미하며, 이벤트 참여, 경기 관람 등을 통하여 고객이 획득하는 코드는 무료 코드로 간주됩니다. “유료 코드”란 판매를 목적으로 고객으로부터 금원을 수령하고 제공하는 코드를 의미합니다.
 
-5) “Paid G-Coin” is valid for 5 years from the day of the purchase.
+2) 회사는 고객에게 의상, 무기 스킨 등 게임 내 컨텐츠(이하 “게임 내 컨텐츠”)를 이용할 수 있도록 하는 무료 코드 및 유료 코드를 제공 할 수 있습니다.
 
-6) “Bonus G-Coin” is valid for three 3 months from the day of the purchase in principle, but it is subject to change at the discretion of the company.
+3) 고객은 본인의 계정에 코드를 등록하여 게임 내 컨텐츠를 이용할 수 있습니다. 코드를 타인에게 매매 또는 양도하는 행위는 엄격하게 금지되며 어떠한 경우에도 허용되지 않습니다.
 
-7) Canceling the purchase of paid G-Coin is applied with Article 17 (Cancellation of the purchase) and Article 18 (Effects of cancelling the purchase, etc.) of the Terms and Conditions. Payments made with bonus G-Coin cannot be canceled. In the case of products purchased with paid or bonus G-Coin, if it has not been used, users can cancel the purchase within 14 days. However, there may be limitation on canceling the purchase if the user falls under one of the following items.
+4) 코드는 원칙적으로 중복 사용이 불가하며, 등록된 코드는 재사용, 반환 또는 환불이 불가합니다.
 
-① If a user’s account is banned in violation of the applicable laws and the company’s Terms and Conditions such as the Terms of Service and Rules of Conduct with illegal acts that have a severe impact on gameplay
+5) 무료 코드는 발행일로부터 3개월의 유효기간이 있으며, 유효기간이 지난 무료 코드는 등록이 불가능 합니다.
 
-② If the company’s Terms and Conditions such as Terms of Service or Rules of Conduct or an applicable purchase condition states it is non-refundable
+6) 유료 코드는 발행일로부터 5년의 유효기간이 있으며, 고객은 유료 코드를 발행일로부터 5년까지 등록할 수 있습니다. 회사의 귀책사유로 인해 유료 코드의 유효기간이 발행일로부터 5년 이내 만료되는 경우 고객은 발행일로부터 최대 5년까지 유효기간의 연장을 요청 할 수 있습니다. 단, 무료 코드는 유효기간을 연장 할 수 없습니다.
 
-③ If the G-Coin is given as a reward for participating in an event or a prize of an event
+7) 회사는 코드의 매매, 양도 및 유효기간의 만료로 인하여 고객 또는 제3자에게 발생하는 손해에 대하여 어떠한 책임도 지지 않습니다.
 
-8) If a user forges, falsifies, steals or illegally obtains or uses G-Coin, the user will be penalized.
+8) 제휴사를 통해 제공된 유료 코드에 대한 사항(환불, 고객문의 등)은 제휴사에서 정한 약관 및 기준을 따릅니다.
+
+### 10. 지코인 캐시의 이용정책
+
+지코인 캐시(이하 “G-Coin”)는 회사에서 서비스하는 상품을 구매하기 위한 게임 내 재화입니다.
+
+1) “유료 G-Coin”이라 함은 대금 지급을 통해 구매한 G-Coin 또는 G-Coin이 포함된 번들 상품을 의미하며, 본조 7항에 따라 청약철회가 가능합니다.
+
+2) “무료 G-Coin”이라 함은 대금 지급을 통해 구매하지 않고 게임 내 이벤트, 서바이벌 패스 미션 달성 등을 통해 획득한 G-Coin을 의미하며, 무료 G-Coin은 환불 및 청약철회가 불가합니다.
+
+3) G-Coin 충전은 제3자 결제 서비스 제공업체를 통해 진행되며, 회사가 설정한 단위로 G-Coin을 충전할 수 있습니다.
+
+4) 게임 내 상품 구매는 보유한 G-Coin의 한도 내에서 구매 가능하며, 구매하는 즉시 보유하고 있는 G-Coin에서 차감됩니다.
+
+5) “유료 G-Coin”은 구매일로부터 5년의 유효기간이 적용됩니다.
+
+6) “무료 G-Coin”은 구매일로부터 기본적으로 3개월의 유효기간이 적용되지만 회사 재량에 따라 변경될 수 있습니다.
+
+7) 유료 G-Coin에 대한 청약철회는 이용약관에 따라 적용되며, 무료 G-Coin의 경우 청약철회가 불가합니다. 유료 혹은 무료 G-Coin으로 구매한 상품의 경우 미사용 시 14일 이내 구매취소를 요청할 수 있습니다. 단, 회원이 다음 각호에 해당하는 경우 청약철회 및 구매 취소에 대한 제약이 발생할 수 있습니다.
+
+① 게임에 심각한 영향을 끼치는 부정행위 등을 포함하여 서비스 약관, 운영정책 등 회사의 약관, 관계 법령을 위반하여 계정 사용이 정지되는 경우
+
+② 서비스 약관, 운영정책 등 회사의 약관 또는 각 개별 구매 조건에서 환불 불가로 정하는 경우
+
+③ 이벤트 참여 또는 당첨 등으로 제공받은 G-Coin일 경우
+
+8) G-Coin의 결제에 있어 위조, 변조, 도용하거나 부정취득 또는 사용하는 경우 제재 조치가 취해집니다.
