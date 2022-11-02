@@ -3,7 +3,7 @@
 회사: 크래프톤
 게임: "PUBG: BATTLEGROUNDS"
 플랫폼: PlayStation
-버전일자: 2022-06-20
+버전일자: 2022-11-02
 출처: https://pubg.com/ko/clause/rules_of_conduct/label_playstation/latest
 수집일자: 2026-09-28
 ---
