@@ -43,7 +43,7 @@ Windows에서 한글 파일명이 깨져 보이면 `git config core.quotepath fa
     {약관명(띄어쓰기 제거)}({플랫폼}).md
 ```
 
-회사·게임 디렉토리는 영문 소문자를 사용합니다 (`coupang`, `tving`, `krafton/pubg`, `nexon/mabinogimobile` 등). 파일명은 회사가 게시한 약관 제목에서 띄어쓰기를 제거하여 사용합니다. Windows에서 쓸 수 없는 문자(`:` 등)도 제거합니다.
+회사·게임 디렉토리는 영문 소문자를 사용합니다 (`coupang`, `tving`, `kt`, `krafton/pubg`, `nexon/mabinogimobile` 등). 파일명은 회사가 게시한 약관 제목에서 띄어쓰기를 제거하여 사용합니다. Windows에서 쓸 수 없는 문자(`:` 등)도 제거합니다.
 
 게임사는 게임별로 약관이 따로 있으므로 `{게임사}/{게임}/` 아래에 둡니다. 같은 약관이 플랫폼(Steam, PlayStation 등)별로 따로 게시되면 `{약관명}({플랫폼}).md`로 구분합니다. 플랫폼 구분이 없는 약관은 괄호 없이 저장합니다.
 
@@ -103,6 +103,24 @@ Windows에서 한글 파일명이 깨져 보이면 `git config core.quotepath fa
 | `크리에이터즈운영정책.md` | 크리에이터즈 운영정책 | https://mabinogimobile.nexon.com/Support/Policy/2755803 |
 
 마비노기 모바일은 게시글 하나를 고쳐 쓰는 방식이라 사이트에 과거 본문이 없습니다. 현행본만 수록하며, 버전일자는 본문 부칙의 가장 최근 시행일입니다.
+
+### KT (`kt/`)
+
+| 파일 | 약관 | 출처 |
+|------|------|------|
+| `전기통신서비스이용기본약관.md` | 전기통신서비스 이용기본약관 | https://corp.kt.com/html/etc/agreement_01.html |
+| `KT회원이용약관.md` | KT 회원 이용약관 | https://corp.kt.com/html/etc/agreement_02.html |
+| `위치정보사업이용약관.md` | 위치정보사업 이용약관 | https://corp.kt.com/html/etc/agreement_07.html |
+| `위치기반서비스이용약관.md` | 위치기반서비스 이용약관 | https://corp.kt.com/html/etc/agreement_07.html |
+| `법적고지.md` | 법적고지 | https://corp.kt.com/html/etc/legal.html |
+| `청소년보호정책.md` | 청소년보호정책 | https://corp.kt.com/html/etc/agreement_05.html |
+| `신용정보조회동의서.md` | 신용정보조회 동의서 | https://corp.kt.com/html/etc/agreement_06.html |
+| `개인정보처리방침.md` | 개인정보 처리방침 | https://inside.kt.com/html/privacycenter/privacy102.html |
+| `아동을위한개인정보처리방침.md` | 아동을 위한 개인정보 처리방침 | https://inside.kt.com/html/privacycenter/privacy103.html |
+
+- 버전일자는 일반 약관은 사이트 게시일, 위치정보·개인정보 약관은 시행일입니다.
+- 과거 본문이 HTML로 제공되는 개인정보 처리방침은 2024-12-19부터 모든 버전을 수록했습니다. 그 이전 개인정보 처리방침과 위치정보 약관의 과거 버전, 개인/기업 상품 이용약관은 PDF로만 제공되어 아직 수록하지 않았습니다.
+- 위치정보 약관 페이지의 신구조문 대비표·비교표는 약관 본문이 아니므로 제외했습니다. 별표는 포함합니다.
 
 ## 메타데이터 (YAML Frontmatter)
 
