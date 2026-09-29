@@ -43,7 +43,7 @@ Windows에서 한글 파일명이 깨져 보이면 `git config core.quotepath fa
     {약관명(띄어쓰기 제거)}({플랫폼}).md
 ```
 
-회사·게임 디렉토리는 영문 소문자를 사용합니다 (`coupang`, `tving`, `kt`, `krafton/pubg`, `nexon/mabinogimobile`, `riotgames/leagueoflegends` 등). 파일명은 회사가 게시한 약관 제목에서 띄어쓰기를 제거하여 사용합니다. Windows에서 쓸 수 없는 문자(`:` 등)도 제거합니다.
+회사·게임 디렉토리는 영문 소문자를 사용합니다 (`coupang`, `naver`, `tving`, `kt`, `krafton/pubg`, `nexon/mabinogimobile`, `riotgames/leagueoflegends` 등). 파일명은 회사가 게시한 약관 제목에서 띄어쓰기를 제거하여 사용합니다. Windows에서 쓸 수 없는 문자(`:` 등)도 제거합니다.
 
 게임사는 게임별로 약관이 따로 있으므로 `{게임사}/{게임}/` 아래에 둡니다. 같은 약관이 플랫폼(Steam, PlayStation 등)별로 따로 게시되면 `{약관명}({플랫폼}).md`로 구분합니다. 플랫폼 구분이 없는 약관은 괄호 없이 저장합니다.
 
@@ -139,6 +139,32 @@ Windows에서 한글 파일명이 깨져 보이면 `git config core.quotepath fa
 - 버전일자는 사이트 버전 목록에 표시되는 게시일입니다. 운영정책처럼 게시 후 일정 기간 뒤에 시행되는 문서는 `시행일자`가 따로 적혀 있습니다.
 - 과거 버전은 사이트가 제공하는 모든 버전을 수록했습니다 (예: 리그 오브 레전드 운영정책 2012년부터 20개, 개인정보 처리방침 2011년부터 32개).
 - 게시일이 없는 동의서류는 수집일자로 커밋했습니다.
+
+### 네이버 (`naver/`)
+
+| 파일 | 약관 | 버전 수 | 출처 |
+|------|------|---------|------|
+| `네이버이용약관.md` | 네이버 이용약관 | 11 (2006~) | https://policy.naver.com/policy/service.html |
+| `네이버유료서비스이용약관.md` | 네이버 유료서비스 이용약관 | 19 (2008~) | https://policy.naver.com/policy/service_paid.html |
+| `네이버위치기반서비스이용약관.md` | 네이버 위치기반서비스 이용약관 | 8 (2010~) | https://policy.naver.com/policy/service_location.html |
+| `네이버게시물운영정책.md` | 네이버 게시물 운영정책 | 1 | https://policy.naver.com/policy/service_group.html |
+| `네이버계정운영정책.md` | 네이버 계정 운영정책 | 1 | https://policy.naver.com/policy/service_group2.html |
+| `네이버개인정보처리방침.md` | 네이버 개인정보 처리방침 | 79 (2006~) | https://policy.naver.com/policy/privacy.html |
+| `네이버청소년보호정책.md` | 네이버 청소년보호정책 | 1 | https://policy.naver.com/policy/youthpolicy.html |
+| `네이버스팸메일정책.md` | 네이버 스팸메일정책 | 1 | https://policy.naver.com/policy/spamcheck.html |
+| `네이버책임의한계와법적고지.md` | 네이버 책임의 한계와 법적고지 | 1 | https://policy.naver.com/policy/disclaimer.html |
+| `네이버검색결과수집에대한정책.md` | 네이버 검색결과 수집에 대한 정책 | 1 | https://policy.naver.com/policy/search_policy.html |
+
+- 과거 버전은 각 페이지의 "이전 ○○ 보기" 링크를 끝까지 따라가 모았습니다.
+- 버전일자는 다음 순서로 정했습니다.
+  1. 새 버전 페이지의 "이전 보기" 링크에 적힌 적용 시작일
+  2. 페이지의 시행일자
+  3. 그 버전이 대체한 이전 페이지 이름의 교체일
+  4. 본문의 "…부터 적용" 문구
+- 개인정보 처리방침의 가장 오래된 두 버전(Ver.1.7, 1.8)은 날짜 단서가 없어 수록하지 않았습니다.
+- 이메일주소 무단수집 거부 페이지는 본문 없이 공지사항으로 넘어가서 제외했습니다.
+- 정보보호 인증·SOC 인증 페이지는 약관이 아니라 제외했습니다.
+- 날짜가 없는 청소년보호정책·법적고지·검색결과 수집 정책은 수집일자로 커밋했습니다.
 
 ## 메타데이터 (YAML Frontmatter)
 
