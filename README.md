@@ -45,7 +45,7 @@ Windows에서 한글 파일명이 깨져 보이면 `git config core.quotepath fa
     {약관명(띄어쓰기 제거)}({플랫폼}).md
 ```
 
-회사·게임 디렉토리는 영문 소문자를 사용합니다 (`coupang`, `naver`, `tving`, `kt`, `krafton/pubg`, `nexon/mabinogimobile`, `riotgames/leagueoflegends` 등). 파일명은 회사가 게시한 약관 제목에서 띄어쓰기를 제거하여 사용합니다. Windows에서 쓸 수 없는 문자(`:` 등)도 제거합니다.
+회사·게임 디렉토리는 영문 소문자를 사용합니다 (`coupang`, `naver`, `kakao`, `tving`, `kt`, `krafton/pubg`, `nexon/mabinogimobile`, `riotgames/leagueoflegends` 등). 파일명은 회사가 게시한 약관 제목에서 띄어쓰기를 제거하여 사용합니다. Windows에서 쓸 수 없는 문자(`:` 등)도 제거합니다.
 
 게임사는 게임별로 약관이 따로 있으므로 `{게임사}/{게임}/` 아래에 둡니다. 같은 약관이 플랫폼(Steam, PlayStation 등)별로 따로 게시되면 `{약관명}({플랫폼}).md`로 구분합니다. 플랫폼 구분이 없는 약관은 괄호 없이 저장합니다.
 
@@ -167,6 +167,25 @@ Windows에서 한글 파일명이 깨져 보이면 `git config core.quotepath fa
 - 이메일주소 무단수집 거부 페이지는 본문 없이 공지사항으로 넘어가서 제외했습니다.
 - 정보보호 인증·SOC 인증 페이지는 약관이 아니라 제외했습니다.
 - 날짜가 없는 청소년보호정책·법적고지·검색결과 수집 정책은 수집일자로 커밋했습니다.
+
+### 카카오 (`kakao/`)
+
+| 파일 | 약관 | 버전 수 | 출처 |
+|------|------|---------|------|
+| `카카오계정약관.md` | 카카오계정 약관 | 11 (2019~) | https://www.kakao.com/policy/terms?type=a&lang=ko |
+| `카카오통합서비스약관.md` | 카카오 통합서비스약관 | 12 (2019~) | https://www.kakao.com/policy/terms?type=ts&lang=ko |
+| `카카오서비스약관.md` | 카카오 서비스 약관 | 18 (2019~) | https://www.kakao.com/policy/kakaoTerms?type=s&version=simple&lang=ko |
+| `카카오위치정보이용약관.md` | 카카오 위치정보 이용약관 | 12 (2019~) | https://www.kakao.com/policy/location?lang=ko |
+| `카카오개인정보처리방침.md` | 카카오 개인정보 처리방침 | 73 (2024~) | https://www.kakao.com/policy/privacy?type=p&lang=ko |
+| `카카오운영정책.md` | 카카오 운영정책 | 1 | https://www.kakao.com/policy/oppolicy?lang=ko |
+| `카카오청소년보호정책.md` | 카카오 청소년보호정책 | 1 | https://www.kakao.com/policy/safeguard?lang=ko |
+| `카카오권리침해신고안내.md` | 카카오 권리침해신고안내 | 1 | https://www.kakao.com/policy/right?lang=ko |
+
+- **과거 버전:**
+  - 약관은 각 페이지의 "변경 전 ○○ 보기" 링크를 끝까지 따라가 모았습니다.
+  - 개인정보 처리방침은 과거 버전 목록 페이지를 따라 모았습니다. 사이트가 ver.94(2024-02-01)부터만 제공합니다.
+- **버전일자:** 각 페이지의 시행일자입니다.
+- **날짜 없는 문서:** 운영정책·청소년보호정책·권리침해신고안내는 버전 정보와 날짜가 없어 수집일자로 커밋했습니다.
 
 ## 메타데이터 (YAML Frontmatter)
 
