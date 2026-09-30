@@ -68,6 +68,7 @@ docs/
 | 크래프톤 PUBG | [`krafton/pubg/`](krafton/pubg/) | [설명](docs/krafton/pubg.md) | 12 | 94 | 사이트 날짜 목록 전체 |
 | 넥슨 마비노기 모바일 | [`nexon/mabinogimobile/`](nexon/mabinogimobile/) | [설명](docs/nexon/mabinogimobile.md) | 4 | 4 | 현행본만 (사이트에 과거 본문 없음) |
 | 라이엇게임즈 | [`riotgames/`](riotgames/) | [설명](docs/riotgames.md) | 49 | 165 | 사이트 버전 목록 전체 |
+| 토스 | [`toss/`](toss/) | [설명](docs/toss.md) | 8 | 82 | 사이트 버전 목록 전체 (2015~) |
 
 ## 메타데이터 (YAML Frontmatter)
 
