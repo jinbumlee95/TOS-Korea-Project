@@ -44,6 +44,18 @@ API가 가리키는 PDF가 해당 문서가 아닌 판은 이력에서 뺐습니
 | Ncloud Kubernetes Security 서비스 이용약관 1판 (2026-08-18) | Web Security Checker 이용약관 4판과 같은 PDF가 연결되어 있음. 이 판이 유일한 판이라 문서 자체를 수록하지 않음 |
 | Web Security Checker 서비스 이용약관 1판 (2017-08-30) | System Security Checker 이용약관 1판과 같은 PDF가 연결되어 있음 |
 
+### 오류 제보와 회신 (2026년 10월)
+
+위 표의 Web Security Checker·Ncloud Kubernetes Security 건을 네이버 클라우드 플랫폼에 제보했고, 다음과 같이 회신받았습니다.
+
+> 1. Web Security Checker 최초 이용약관이 System Security Checker 노출이 되는 상황
+>    - 잘못된 업로드가 확인되어 해당 약관은 제거가 될 예정입니다.
+> 2. Ncloud Kubernetes Security 이용약관
+>    - Ncloud Kubernetes Service 의 중복 및 잘못된 노출로 확인되어 수정예정입니다.
+
+- 두 건 모두 사이트 데이터 오류로 확인되었으므로, 이 저장소에서 해당 판을 뺀 처리를 유지합니다.
+- 회신 시점에는 사이트 수정이 끝나지 않았습니다. 수정이 반영되면 다시 수집해 이 표와 수록 문서를 갱신합니다.
+
 ## 그 밖의 참고
 
 - **같은 이름의 두 문서:** "Simple & Easy Notification Service 서비스 이용약관"은 사이트에 문서 코드 두 개(`NOTIF` 6판, `SENST` 7판)로 따로 있습니다. 6판까지 내용이 같습니다. 파일명 뒤에 코드를 붙여 구분했습니다.
