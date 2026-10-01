@@ -41,8 +41,8 @@ API가 가리키는 PDF가 해당 문서가 아닌 판은 이력에서 뺐습니
 |----|-----------|
 | 서비스 이용약관 9판 (2017-04-13) | '네이버 클라우드 BIZ 개인정보처리방침' PDF가 연결되어 있음 |
 | ARC eye 서비스 이용약관 2판 (적용일 없음) | 'ARC eye 매핑 장비 대여 서비스 이용 안내' PDF가 연결되어 있음 (`privacy/ARCeye매핑장비대여서비스이용안내.md`와 같은 문서) |
-| Ncloud Kubernetes Security 서비스 이용약관 1판 (2026-08-18) | Web Security Checker 이용약관 4판과 같은 PDF가 연결되어 있음. 이 판이 유일한 판이라 문서 자체를 수록하지 않음 |
-| Web Security Checker 서비스 이용약관 1판 (2017-08-30) | System Security Checker 이용약관 1판과 같은 PDF가 연결되어 있음 |
+| Ncloud Kubernetes Security 서비스 이용약관 1판 (2026-08-18) | Web Security Checker 이용약관 4판과 같은 PDF가 연결되어 있음. 이 판이 유일한 판이라 문서 자체를 수록하지 않음. 회사 확인(2026년 10월): Ncloud Kubernetes Service의 중복 및 잘못된 노출, 수정 예정 |
+| Web Security Checker 서비스 이용약관 1판 (2017-08-30) | System Security Checker 이용약관 1판과 같은 PDF가 연결되어 있음. 회사 확인(2026년 10월): 잘못된 업로드, 제거 예정 |
 
 ### 오류 제보와 회신 (2026년 10월)
 
