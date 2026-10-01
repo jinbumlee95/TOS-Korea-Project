@@ -1,1 +1,6 @@
 * text=auto eol=lf
+
+# Keep source evidence byte-identical to the supplied files and SHA-256 records.
+docs/*/evidence/**/*.htm -text !eol
+docs/*/evidence/**/*.js -text !eol
+docs/*/evidence/**/*.css -text !eol

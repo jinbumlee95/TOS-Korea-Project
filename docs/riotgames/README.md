@@ -1,4 +1,4 @@
-# 라이엇게임즈 ([`riotgames/`](../riotgames/))
+# 라이엇게임즈 ([`riotgames/`](../../riotgames/))
 
 [라이엇 게임즈 법률 문서](https://legal.kr.riotgames.com/) 사이트의 문서 전체입니다.
 

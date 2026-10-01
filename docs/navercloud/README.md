@@ -1,4 +1,4 @@
-# 네이버 클라우드 플랫폼 ([`navercloud/`](../navercloud/))
+# 네이버 클라우드 플랫폼 ([`navercloud/`](../../navercloud/))
 
 [네이버 클라우드 플랫폼 정책](https://www.ncloud.com/policy/terms/svc) 페이지의 서비스 이용약관, 서비스 수준 협약(SLA), 개인정보처리방침 전체입니다.
 
