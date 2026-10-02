@@ -4,7 +4,7 @@
 
 | 기업 | 수록 설명 | 보존 근거 |
 |---|---|---|
-| 쿠팡 | [설명](coupang/README.md) | — |
+| 쿠팡 | [설명](coupang/README.md) | [2026-10-02 수집 가능 여부 문의·회신](coupang/evidence/2026-10-02-collection-inquiry/README.md) |
 | 네이버 | [설명](naver/README.md) | — |
 | 네이버 클라우드 플랫폼 | [설명](navercloud/README.md) | — |
 | 카카오 | [설명](kakao/README.md) | — |
