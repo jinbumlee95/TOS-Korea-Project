@@ -143,7 +143,7 @@ Git 커밋은 단순한 저장 이력이 아니라 다음을 위한 구조입니
 
 ```bash
 git log --format="%h %ad %s" --date=short -- kakao/카카오계정약관.md
-git diff --word-diff 5cfd5f9 2862f34 -- kakao/카카오계정약관.md
+git diff --word-diff 1b515b7 aefaa15 -- kakao/카카오계정약관.md
 ```
 
 ### 커밋 규칙
