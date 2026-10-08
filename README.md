@@ -3,6 +3,8 @@
 > **최신성 안내:** 각 서비스의 자동화된 약관 확인·수집 허용 여부가 확인되지 않아, 이 저장소는 정기적인 자동 수집을 운영하지 않습니다. **최신 버전의 수록이나 지속적인 갱신을 보장하지 않습니다.** 현재 유효한 약관은 각 서비스 제공자의 공식 웹사이트에서 확인해 주세요.
 >
 > **쿠팡:** 2026-10-02 쿠팡 회신에 따라 자동화된 수집이 약관(쿠팡 이용 약관 제12조 제2항 제4호)상 허용되지 않음을 확인하여, **쿠팡 약관은 정기적으로 갱신하지 않습니다.** 자세한 내용은 [`docs/coupang/README.md`](docs/coupang/README.md#정기-갱신-중단)에 있습니다.
+>
+> **넥슨:** 2026-10-08 넥슨 회신에 따라 자동화된 수단을 통한 수집이 허용 범위가 아님을 확인하여, **넥슨 약관은 정기적으로 갱신하지 않습니다.** 넥슨 수록본은 비공식 자료이며 넥슨이 승인하거나 협력하는 프로젝트가 아닙니다. 넥슨은 그 정확성·최신성을 보증하지 않으며, 적용되는 약관은 넥슨 공식 페이지에 게시된 해당 시점의 약관을 기준으로 확인해야 합니다. 자세한 내용은 [`docs/nexon/mabinogimobile.md`](docs/nexon/mabinogimobile.md#정기-갱신-중단과-표시고지)에 있습니다.
 
 대한민국 온라인 서비스 이용약관과 정책이 **언제, 어떻게 바뀌었는지** 추적하고 비교하기 위한 역사적 기록(historical record)입니다. 약관 파일 하나가 문서이고, 커밋 하나가 그 문서의 한 버전입니다.
 
@@ -68,7 +70,7 @@ Windows에서 한글 파일명이 깨져 보이면 `git config core.quotepath fa
 | TVING | [`tving/`](tving/) | [설명](docs/tving/README.md) | 7 | 95 | 사이트 버전 목록 전체 |
 | KT | [`kt/`](kt/) | [설명](docs/kt/README.md) | 9 | 28 | 개인정보 처리방침만 (2024-12~), 나머지는 현행본 |
 | 크래프톤 PUBG | [`krafton/pubg/`](krafton/pubg/) | [설명](docs/krafton/pubg.md) | 12 | 94 | 사이트 날짜 목록 전체 |
-| 넥슨 마비노기 모바일 | [`nexon/mabinogimobile/`](nexon/mabinogimobile/) | [설명](docs/nexon/mabinogimobile.md) | 4 | 4 | 현행본만 (사이트에 과거 본문 없음) |
+| 넥슨 마비노기 모바일 | [`nexon/mabinogimobile/`](nexon/mabinogimobile/) | [설명](docs/nexon/mabinogimobile.md) | 4 | 4 | 현행본만 (사이트에 과거 본문 없음, 2026-09-28 수집분까지, **정기 갱신 안 함**) |
 | 라이엇게임즈 | [`riotgames/`](riotgames/) | [설명](docs/riotgames/README.md) | 49 | 165 | 사이트 버전 목록 전체 |
 | 토스 | [`toss/`](toss/) | [설명](docs/toss/README.md) | 8 | 82 | 사이트 버전 목록 전체 (2015~) |
 

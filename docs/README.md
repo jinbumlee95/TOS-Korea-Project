@@ -11,7 +11,7 @@
 | TVING | [설명](tving/README.md) | — |
 | KT | [설명](kt/README.md) | — |
 | 크래프톤 | [PUBG](krafton/pubg.md) | — |
-| 넥슨 | [마비노기 모바일](nexon/mabinogimobile.md) | — |
+| 넥슨 | [마비노기 모바일](nexon/mabinogimobile.md) | [2026-10-08 수집 가능 여부 문의·회신](nexon/evidence/2026-10-08-collection-inquiry/README.md) |
 | 라이엇게임즈 | [설명](riotgames/README.md) | — |
 | 토스 | [설명](toss/README.md) | [2017-04-01 판 HTML 표시 상태](toss/evidence/2017-04-01-service-html/README.md) |
 
