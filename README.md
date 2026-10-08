@@ -70,7 +70,7 @@ Windows에서 한글 파일명이 깨져 보이면 `git config core.quotepath fa
 | TVING | [`tving/`](tving/) | [설명](docs/tving/README.md) | 7 | 95 | 사이트 버전 목록 전체 |
 | KT | [`kt/`](kt/) | [설명](docs/kt/README.md) | 9 | 28 | 개인정보 처리방침만 (2024-12~), 나머지는 현행본 |
 | 크래프톤 PUBG | [`krafton/pubg/`](krafton/pubg/) | [설명](docs/krafton/pubg.md) | 12 | 94 | 사이트 날짜 목록 전체 |
-| 넥슨 마비노기 모바일 | [`nexon/mabinogimobile/`](nexon/mabinogimobile/) | [설명](docs/nexon/mabinogimobile.md) | 4 | 4 | 현행본만 (사이트에 과거 본문 없음, 2026-09-28 수집분까지, **정기 갱신 안 함**) |
+| 넥슨 마비노기 모바일 | [`nexon/mabinogimobile/`](nexon/mabinogimobile/) | [설명](docs/nexon/mabinogimobile.md) | 4 | 4 | 현행본만 (변경은 별도 공지사항으로 안내, 정책 페이지 안에서는 과거 이력 미제공, 2026-09-28 수집분까지, **정기 갱신 안 함**) |
 | 라이엇게임즈 | [`riotgames/`](riotgames/) | [설명](docs/riotgames/README.md) | 49 | 165 | 사이트 버전 목록 전체 |
 | 토스 | [`toss/`](toss/) | [설명](docs/toss/README.md) | 8 | 82 | 사이트 버전 목록 전체 (2015~) |
 
